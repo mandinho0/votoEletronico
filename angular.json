@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "votoEletronico"
+  "defaultProject": "votoEletronico",
+  "cli": {
+    "analytics": false
+  }
 }
